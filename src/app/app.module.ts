@@ -14,8 +14,8 @@ import {HttpClientModule} from "@angular/common/http";
 import {FormsModule} from "@angular/forms";
 import { TranslateServiceProvider } from '../providers/translate-service/translate-service';
 
-/*   
-    Learning to add comments to test git commit 
+/*
+    This is a a second branch trying to test multi branch things 
 */
 @NgModule({
   declarations: [
