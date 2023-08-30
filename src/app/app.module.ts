@@ -16,7 +16,6 @@ import { TranslateServiceProvider } from '../providers/translate-service/transla
 
 /*
     This is a a second branch trying to test multi branch things 
-    
 */
 @NgModule({
   declarations: [
