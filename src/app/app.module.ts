@@ -14,7 +14,10 @@ import {HttpClientModule} from "@angular/common/http";
 import {FormsModule} from "@angular/forms";
 import { TranslateServiceProvider } from '../providers/translate-service/translate-service';
 
-
+/*
+    This is a a second branch trying to test multi branch things 
+    
+*/
 @NgModule({
   declarations: [
     MyApp,
